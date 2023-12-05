@@ -2,5 +2,5 @@
 
 # dependencies
 /node_modules
-/public/manifest.json
-/src/index.js
+public/manifest.json
+src/index.js
